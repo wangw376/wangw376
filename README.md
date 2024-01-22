@@ -10,7 +10,7 @@ He has been working toward the M.S degree in aerospace science and technology wi
 
 His current research interests include image processing, aircraft vision, space target pose estimation.
 
-fitness健身🏋️‍♂️, Swimming🏊‍,and journey旅行🛫.  
+fitness健身🏋️‍♂️, swimming🏊‍,and journey旅行🛫.  
 
 Let's passionate!
 
