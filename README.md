@@ -6,7 +6,7 @@ Wang Wei was born in Anqing, China.
 
 He received the B.S.degree in geographic information science in 2021 from Chang'an University, Xi 'an, China. 
 
-he has been working toward the M.S degree in aerospace science and technology with the School of Aeronautics and Astronautics of Sun Yat-sen University since 2023.
+He has been working toward the M.S degree in aerospace science and technology with the School of Aeronautics and Astronautics of Sun Yat-sen University since 2023.
 
 His current research interests include image processing, aircraft vision, space target pose estimation.
 
