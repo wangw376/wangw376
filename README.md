@@ -13,6 +13,9 @@ His current research interests include image processing, aircraft vision, space 
 fitness健身🏋️‍♂️, Swimming🏊‍,and journey旅行🛫.  
 
 Let's passionate!
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
+
 ## Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/wangw376)
